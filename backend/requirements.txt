@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+pytesseract
+easyocr
+numpy
+scikit-learn
+joblib
+pillow
+
+# Auth & Database
+pymongo
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
